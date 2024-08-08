@@ -1,0 +1,18 @@
+LOGIN
+
+1. Admin, Role : Admin
+Email : admin@gmail.com
+Pass : Admin123
+
+2. Kasir, Role : Kasir
+Email : kasir@gmail.com
+Pass : Kasir123
+
+3. Customer, Role : Customer
+* Customer
+Email : customer@gmail.com
+Pass : Customer123
+
+* Budi
+Email : budi@gmail.com
+Pass : Budi123
